@@ -1,0 +1,20 @@
+.cuadrado1 {
+    background: lightgrey;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+}
+.cuadrado2 {
+    background: black;
+    width: 50px;
+    height: 50px;
+    
+}   
+.container {
+     display: flex;
+    align-items: left;
+    float: left;
+}
+div{
+    float: none;
+} 
